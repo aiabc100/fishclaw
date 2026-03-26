@@ -77,7 +77,7 @@ git clone https://github.com/yourusername/fishclaw.git
 cd fishclaw
 
 # 安装依赖
-pip install -r requirements.txt
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ### 运行演示
